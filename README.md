@@ -1,5 +1,9 @@
 # Hi there 👋  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=450&lines=Hey+I'm+Your+Name" alt="Typing SVG">
+</p>
+
 ![Views](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square)  
 ![Forks](https://img.shields.io/github/forks/YourUsername/YourRepo?style=social)  
 ![Stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)  
@@ -7,9 +11,7 @@
 ![License](https://img.shields.io/badge/license-GPL--3.0-purple)  
 ![Author](https://img.shields.io/badge/Author-YourName-purple)  
 
-## Hey I'm **Your Name**  
-
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 | Metric             | Value |
 |--------------------|------:|
