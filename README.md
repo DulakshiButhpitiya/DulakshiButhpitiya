@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**DulakshiButhpitiya/DulakshiButhpitiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Views](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square)  
+![Forks](https://img.shields.io/github/forks/YourUsername/YourRepo?style=social)  
+![Stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)  
+![Repo Size](https://img.shields.io/github/repo-size/YourUsername/YourRepo)  
+![License](https://img.shields.io/badge/license-GPL--3.0-purple)  
+![Author](https://img.shields.io/badge/Author-YourName-purple)  
 
-Here are some ideas to get you started:
+## Hey I'm **Your Name**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+
+| Metric             | Value |
+|--------------------|------:|
+| **Total Stars Earned** | 466  |
+| **Total Commits (2025)** | 781  |
+| **Total PRs** | 4  |
+| **Total Issues** | 0  |
+| **Contributed to (last year)** | 1  |
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)  
+
+### 🔥 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)  
+
+## Hi there 👋  
+
+- 😊 I'm **Your Name**  
+- 💻 Passionate about coding and development  
+- 🚀 Always exploring new technologies  
+
+---
+⭐️ **Feel free to connect with me!**  
