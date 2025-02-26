@@ -56,7 +56,7 @@
 ### 🌍 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Dulakshi-Chandima/">
+  <a href="https://www.linkedin.com/in/dulakshi-chandima-b112a4318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/DulakshiButhpitiya">
